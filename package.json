@@ -1,0 +1,11 @@
+{
+  "name": "Hex",
+  "version": "0.0.0",
+  "description": "Hex Board Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
